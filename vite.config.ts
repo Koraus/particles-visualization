@@ -9,5 +9,4 @@ export default defineConfig({
           plugins: ["@emotion/babel-plugin"]
       }
   })],
-  base: './',
 })
